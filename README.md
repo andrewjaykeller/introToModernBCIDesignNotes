@@ -1,8 +1,14 @@
 # Notes for Introduction to Modern Brain Computer Interface Design
-## By: Christian A. Kothe
-### Swartz Center for Computational Neuroscience
-### University of California San Diego
-#### [Youtube Link](https://www.youtube.com/playlist?list=PLbbCsk7MUIGcO_lZMbyymWU2UezVHNaMq)
+## Course Credit
+
+Creator/Author:
+Christian A. Kothe
+
+University 
+Swartz Center for Computational Neuroscience
+University of California San Diego
+
+[Youtube Video Playlist Link](https://www.youtube.com/playlist?list=PLbbCsk7MUIGcO_lZMbyymWU2UezVHNaMq)
 
 ## Description
 
@@ -35,4 +41,7 @@ There are four folders at this time
 
 *Italic* font is used the first time you see a new definition or want to add emphasis to a word such as *very* fast
 
-‘Code’ can be found whenever ‘this monospace style’ is used. All code in this lecture is in MATLAB
+`Code` can be found whenever `this monospace style` is used. All code in this lecture is in MATLAB
+
+## Contributing
+Contributions are welcomed with open arms. Pull request and I’ll add your work.
